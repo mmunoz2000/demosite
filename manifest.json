@@ -1,0 +1,15 @@
+{
+  "name": "Brides and Grooms Deluxe",
+  "short_name": "Deluxe",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "assets/images/logo.png",
+      "sizes": "127x80",
+      "type": "image/png"
+    }
+  ]
+}
