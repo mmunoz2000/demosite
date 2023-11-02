@@ -1,0 +1,33 @@
+{
+  "name": "Brides and Grooms Deluxe",
+  "short_name": "Deluxe",
+  "theme_color": "#000000",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "scope": "/",
+  "start_url": "/",
+  "orientation": "portrait",
+  "version": "1.0.0",
+  "icons": [
+    {
+      "src": "assets/images/logo-72x72.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/images/logo-152x152.png",
+      "sizes": "152x152",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/images/logo-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/images/logo-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
